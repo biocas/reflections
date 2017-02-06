@@ -5,3 +5,8 @@ The repository will track my files and save all the commits I've made.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It's an intermediate are which adds flexibility in terms of what to commit.
 This way you can choose which files to commit together.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Sometimes one logical change includes more than one file.
+You can include two files in the same commit with the staging area.
+You can also use git diff and git diff --staged to se if the differences are in fact logical.
