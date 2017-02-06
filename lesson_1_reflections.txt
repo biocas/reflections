@@ -1,0 +1,28 @@
+
+
+Viewing a diff between two versions has helped me easily spot the bug with the differences layed in the same file -
+which I consider the easir way to compare ideas, text, images or, of course, code -
+without all the "distractions", that is, the lines of code that stayed the same in both versions.
+
+Having access to older versions of the same file makes it easy to track down your work and take steps back when needed.
+This way I can avoid getting lost in all the changes I usually make in all my projects.
+It is also useful when you add code that overrides older code and you need the old one back!
+
+The pros about manually creating a commit are making logical commits and easily navigate through them.
+The cons are the user error, that is, if you forget to manually create a commit that is important for your workflow.
+
+Version control systems like Google Docs treat each file seperately because they have a user friendly workflow
+that doesn't have any learning curve.
+On the other hand, version control systems like Git are made for coding and so, understand the importance of
+tracking multiple files in some situations, because the functionality of a program, or a website, depends on it.
+
+How can you use the commands git log and git diff to view the history of files?
+Git log lets you see all the steps you have made in your project
+Git diff lets you compare differences between two particular steps.
+
+How might using version control make you more confident to make changes that could break something? 
+Because know I know I can go back, and how to!!
+
+How Do You Want to Use Git?
+To make experiments with my code knowing I won't break it.
+Also now I have fun colours in the terminal!
