@@ -18,3 +18,6 @@ Branches help to add new features while having a master branch that should conta
 
 How do the diagrams help you visualize the branch structure?
 Visual representation, specially on paper, always helps organizing the project in your head.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Changes made in both branches get included in the same branch/same file. They are represented in the diagram in a graph that shows how the branches diverge.
