@@ -21,3 +21,7 @@ Visual representation, specially on paper, always helps organizing the project i
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Changes made in both branches get included in the same branch/same file. They are represented in the diagram in a graph that shows how the branches diverge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros of automatic merging are the time saving and easiness of the process, cons can be jeopardizing conflicts.
+Doing merges manually can take more time but it gives you the authority to decide what changes to merge into the same commit.
