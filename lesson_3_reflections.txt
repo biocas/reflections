@@ -4,3 +4,8 @@ When I want to share my projects with others or when I have other people working
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because you may not want all of the commits being pulled to the remote.
 For instance, if you're working on a new feature you may just want to pull changes when the feature is all set up and working.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A branch is a different "direction" added to the linear history of your commits, that is useful for working on new features of your projects.
+Cloning means downloading a repository which is on GitHub into your own computer.
+Forking means "cloning" a repository, but directly in GitHub, without cloning the code into your computer.
