@@ -13,3 +13,8 @@ Forking means "cloning" a repository, but directly in GitHub, without cloning th
 What is the benefit of having a copy of the last known state of the remote stored locally?
 That way you can update the local copy of the remote if it has new changes, and then merge those changes 
 with the ones you've made in your local branch.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Without using GitHub I would have to keep sending and getting zip files with the multiple changes 
+on projects. It would be much harder and time consuming to finish changes. Altough there is a learning
+curve in using GitHub, it does make things easier.
